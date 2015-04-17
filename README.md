@@ -15,6 +15,9 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Snippets
 
+- Xcode snippets in Objective-C by @mattt
+  - https://github.com/Xcode-Snippets/Objective-C
+
 ### OS X Apps & Frameworks
 
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps)
