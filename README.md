@@ -15,8 +15,10 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Snippets
 
-- Xcode snippets in Objective-C by @mattt
+- @mattt: Xcode snippets in Objective-C
   - https://github.com/Xcode-Snippets/Objective-C
+- @burczyk: Xcode snippets in Swift :large_orange_diamond:
+  - https://github.com/burczyk/XcodeSwiftSnippets
 
 ### OS X Apps & Frameworks
 
