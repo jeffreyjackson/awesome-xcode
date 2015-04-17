@@ -24,6 +24,9 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Plugins
 
+- cocoapods-xcode-plugin: Dependency management helper for your CocoaPods, right in Xcode
+  - https://github.com/kattrali/cocoapods-xcode-plugin
+
 ### OS X Apps & Frameworks
 
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps)
