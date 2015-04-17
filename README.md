@@ -8,6 +8,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Applications
 
+- Alcatraz: Package manager for Xcode
+  - https://github.com/supermarin/Alcatraz
 - Cocoapods: The Cocoa Dependency Manager
   - https://github.com/CocoaPods/CocoaPods
 - xcodesnippet:A command-line interface for installing Xcode Snippets
