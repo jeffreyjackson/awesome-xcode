@@ -10,6 +10,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 - Cocoapods: The Cocoa Dependency Manager
   - https://github.com/CocoaPods/CocoaPods
+- xcodesnippet:A command-line interface for installing Xcode Snippets
+  - https://github.com/Xcode-Snippets/xcodesnippet
 
 ### Snippets
 
