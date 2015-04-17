@@ -26,6 +26,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 - cocoapods-xcode-plugin: Dependency management helper for your CocoaPods, right in Xcode
   - https://github.com/kattrali/cocoapods-xcode-plugin
+- XcodeBoost: An Xcode plugin that aims to make altering and inspecting code quick and easy.
+  - https://github.com/fortinmike/XcodeBoost
 
 ### OS X Apps & Frameworks
 
