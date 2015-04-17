@@ -8,6 +8,9 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Applications
 
+- Cocoapods: The Cocoa Dependency Manager
+  - https://github.com/CocoaPods/CocoaPods
+
 ### Snippets
 
 ### OS X Apps & Frameworks
