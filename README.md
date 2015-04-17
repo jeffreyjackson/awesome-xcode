@@ -22,6 +22,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 - [@burczyk](https://github.com/burczyk): Xcode snippets in Swift :large_orange_diamond:
   - https://github.com/burczyk/XcodeSwiftSnippets
 
+### Plugins
+
 ### OS X Apps & Frameworks
 
 [jeffreyjackson/mac-apps](https://github.com/jeffreyjackson/mac-apps)
