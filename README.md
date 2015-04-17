@@ -28,6 +28,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
   - https://github.com/kattrali/cocoapods-xcode-plugin
 - XcodeBoost: An Xcode plugin that aims to make altering and inspecting code quick and easy.
   - https://github.com/fortinmike/XcodeBoost
+- Xvim: Xcode plugin for Vim keybindings
+  - https://github.com/XVimProject/XVim
 
 ### OS X Apps & Frameworks
 
