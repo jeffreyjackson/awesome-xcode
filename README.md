@@ -24,6 +24,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 ### Plugins
 
+- ColorSense-for-Xcode: Plugin for Xcode to make working with colors more visual
+ - https://github.com/omz/ColorSense-for-Xcode
 - cocoapods-xcode-plugin: Dependency management helper for your CocoaPods, right in Xcode
   - https://github.com/kattrali/cocoapods-xcode-plugin
 - XcodeBoost: An Xcode plugin that aims to make altering and inspecting code quick and easy.
