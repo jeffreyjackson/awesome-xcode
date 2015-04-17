@@ -10,6 +10,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 - Alcatraz: Package manager for Xcode
   - https://github.com/supermarin/Alcatraz
+- Carthage: A simple, decentralized dependency manager for Cocoa
+  - https://github.com/Carthage/Carthage
 - Cocoapods: The Cocoa Dependency Manager
   - https://github.com/CocoaPods/CocoaPods
 - xcodesnippet:A command-line interface for installing Xcode Snippets
