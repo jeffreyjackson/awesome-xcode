@@ -10,7 +10,7 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
 
 - Alcatraz: Package manager for Xcode
   - https://github.com/supermarin/Alcatraz
-- Carthage: A simple, decentralized dependency manager for Cocoa
+- Carthage: A simple, decentralized dependency manager for Cocoa :large_orange_diamond:
   - https://github.com/Carthage/Carthage
 - Cocoapods: The Cocoa Dependency Manager
   - https://github.com/CocoaPods/CocoaPods
