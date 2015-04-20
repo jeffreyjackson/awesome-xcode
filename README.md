@@ -23,6 +23,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
   - https://github.com/Xcode-Snippets/Objective-C
 - [@burczyk](https://github.com/burczyk): Xcode snippets in Swift :large_orange_diamond:
   - https://github.com/burczyk/XcodeSwiftSnippets
+- [@schukin](https://github.com/schukin/Fucking-Block-Syntax-Autocompletion): Fucking-Block-Syntax-Autocompletion
+  - https://github.com/schukin/Fucking-Block-Syntax-Autocompletion
 
 ### Plugins
 
