@@ -34,6 +34,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/awesome-xcod
   - https://github.com/kattrali/cocoapods-xcode-plugin
 - FuzzyAutocompletePlugin: A Xcode 5+ plugin that adds more flexible autocompletion rather than just prefix-matching
   - https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin
+- SCXcodeSwitchExpander: Xcode plugin that enables switch cases autocompletion
+  - https://github.com/stefanceriu/SCXcodeSwitchExpander
 - XcodeBoost: An Xcode plugin that aims to make altering and inspecting code quick and easy.
   - https://github.com/fortinmike/XcodeBoost
 - Xvim: Xcode plugin for Vim keybindings
